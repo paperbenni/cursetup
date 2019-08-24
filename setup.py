@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="cursetup", 
-    version="0.0.1", 
+    version="0.0.4", 
     author="paperbenni", 
     author_email = "paperbenni@gmail.com", 
     description="avoid cursing at curses", 
